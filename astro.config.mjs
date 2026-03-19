@@ -32,6 +32,6 @@ export default defineConfig({
   },
 
   output: "static",
-  site: "https://drcakechan.github.io",
-  base: "/sheff-races-blog",
+    site: 'https://DrCakeChan.github.io',
+  base: '/sheff-races-blog',
 });
